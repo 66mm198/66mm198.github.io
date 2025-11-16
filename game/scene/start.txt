@@ -1,7 +1,7 @@
 bgm:s_Title.mp3;
 intro:作为一名刚刚入学的新生，你对今天的开学迎新非常激动，充满了对大学恋爱的向往。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
-changeBg:家/31e3c3311aa510d8e05ed7b99decf997.png;
-changeFigure:微信图片_20251115201135_141_2.png;
+changeBg:mm/31e3c3311aa510d8e05ed7b99decf997.png;
+changeFigure:20251115201135_141_2.png;
 miniAvatar:7030698192ff9527f085b4f1db8985bc.png;
 学姐:你好同学，你是新来的新生吗。;
 choose:学姐，你好......好漂亮:6 你好漂亮.txt|学姐，可以加一下微信吗？:摇微信6.txt;

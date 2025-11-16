@@ -1,5 +1,5 @@
-changeBg:家/473dea2464bedf2d6cce3431adda71ef.png;
-changeFigure:微信图片_20251115201136_142_2.png;
+changeBg:mm/473dea2464bedf2d6cce3431adda71ef.png;
+changeFigure:20251115201136_142_2.png;
 miniAvatar:7030698192ff9527f085b4f1db8985bc.png;
 鸿羽:（脸上的汗珠轻轻划过雪白的脖颈）我把行李放到宿舍门口了，来加个微信吧，方便我照顾你(笑);
 miniAvatar:none;
@@ -7,7 +7,7 @@ miniAvatar:none;
 miniAvatar:7030698192ff9527f085b4f1db8985bc.png;
 鸿羽:好啊，晚上见（轻轻的抚摸你的头）;
 intro:晚上很快就到了，你从来没感到时间可以过的这么慢。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
-changeBg:家/a4a0eadd7c81282950b844fb244d5093.png -transform={"colorRed":107,"colorGreen":99,"colorBlue":99};
+changeBg:mm/a4a0eadd7c81282950b844fb244d5093.png -transform={"colorRed":107,"colorGreen":99,"colorBlue":99};
 changeFigure:d06bc961e82b56bbf5f982f5d7ac2c08.png;
 鸿宇:毛毛，见到你真开心，在宿舍还习惯吗;
 miniAvatar:none;
