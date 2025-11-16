@@ -1,0 +1,4 @@
+
+changeFigure:微信图片_20251115220342_161_2.png;
+学姐:不好意思，我不喜欢如此直白的新生，拜拜（潇洒离去）;
+intro:校园恋爱完全失败 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(247, 12, 12, 1) -animation=fadeIn -delayTime=1500;

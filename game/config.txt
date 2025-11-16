@@ -1,0 +1,10 @@
+Game_name:是梦吗？英专学姐和我的恋爱日常;
+Game_key:12beadfae7baae7;
+Title_img:家/dbebf1aed4b834ae08ee5ec972ac6eac.jpg;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;
+Game_Logo:家/dc5b722f0a63b3797db515480d9ae1b1.jpg;
+Package_name:;
+Description:;
+Default_Language:;
+Enable_Appreciation:true;

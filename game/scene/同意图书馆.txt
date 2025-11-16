@@ -1,0 +1,2 @@
+学姐:不好意思学妹，我突然想起来明天晚上有事。;
+intro:学姐觉得你很无趣，以后不怎么见面了。游戏结束。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 0, 0, 1) -animation=fadeIn -delayTime=1500;

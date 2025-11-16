@@ -1,0 +1,13 @@
+鸿羽:小妞有个性，姐要定你了。;
+miniAvatar:none;
+毛毛:学姐，，，我的欲情故纵居然被你识破了，明天晚上七点图书馆见。;
+changeBg:家/7b6a7ea15ab8375d37a2515115d9cd6e.png;
+miniAvatar:7030698192ff9527f085b4f1db8985bc.png;
+鸿羽:小毛，我给你带了咖啡。我们看书吧。;
+intro:突然，你的脚下一滑，身体往后倾倒 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+setTransition: -enter=blur;
+changeFigure:d5af1c425f99ea98c2b357747a3d44fc.png;
+鸿羽:毛毛小心！！！！！(立刻环抱着你的腰，防止了你摔倒），而后又壁咚了你。|小妞，要小心了，，，，，，，，;
+miniAvatar:none;
+毛毛:学姐......;
+choose:紧紧的抱住学姐:抱住.txt|害羞的逃跑:逃跑.txt;

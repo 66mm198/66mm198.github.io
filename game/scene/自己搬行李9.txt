@@ -1,0 +1,6 @@
+
+changeBg:家/3ae6b53157da65cc4e1f1eb3e41b2401.png;
+changeFigure:none;
+miniAvatar:none;
+毛毛:好累啊，，终于到宿舍楼了 -notend;
+intro:从此你和泓羽姐再无交集，游戏结束。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 3, 3, 1) -animation=fadeIn -delayTime=1500;

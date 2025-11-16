@@ -1,0 +1,2 @@
+
+intro:走出食堂后，学姐删了你的微信，游戏结束。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(250, 0, 0, 1) -animation=fadeIn -delayTime=1500;

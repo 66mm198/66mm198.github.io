@@ -1,0 +1,11 @@
+
+pixiPerform:cherryBlossoms;
+学姐:谢谢学妹......（心里生出一番别样的滋味），你叫什么名字呀？我叫鸿羽，是24级英语专业的。;
+pixiInit:;
+miniAvatar:none;
+毛毛:我叫毛毛，是艺术学院产品设计专业的。;
+changeBg:家/a318c5e9725d017b9aacd8e551ff05d0.png;
+miniAvatar:7030698192ff9527f085b4f1db8985bc.png;
+鸿羽:毛毛，你好可爱，我帮你搬行李吧 -center;
+changeFigure:微信图片_20251115201155_150_2.png;
+choose:谢谢学姐，我可以自己搬行李的，不用麻烦了:自己搬行李9.txt|谢谢学姐，麻烦你了:让学姐搬.txt;
